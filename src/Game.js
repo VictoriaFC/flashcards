@@ -13,6 +13,18 @@ class Game {
   printQuestion(round) {
       util.main(round);
   }
+
+  currentRound() {
+    // keeps track of the current round
+  }
+
+  start() {
+    // Creates Cards
+    // Puts Cards in a Deck
+    // Creates a new Round using the Deck
+    // invokes printMessage to display the message in the CLI
+    // invokes printQuestion to kick off our helper functions that allow interaction via the CLI
+  }
 }
 
 module.exports = Game;
