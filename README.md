@@ -5,7 +5,7 @@ This game simulates a set of flash cards through the command line! 😱 As the u
 
 ## Visuals
 
-
+![ Alt text](https://media.giphy.com/media/42iDZAuKm7U3824xEW/giphy.gif)
 
 ## Setup
 
